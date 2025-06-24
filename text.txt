@@ -1,0 +1,18 @@
+OLED = with three push buttons 
+    Button UP = 12
+    Button DOWN  = 14
+    Button SELECT = 27
+
+    "Deauthentication", 
+    "Fake Access Points", 
+    "WiFi Beacon Flooding", 
+    "Probe Request Attacks", 
+    "Packet Sniffing", 
+    "Bluetooth Device Scanning & Tracking", 
+    "Bluetooth Jamming", 
+    "Mouse Jack Attacks", 
+    "Man-in-the-Middle", 
+    "BadUSB Attacks" 
+
+
+
